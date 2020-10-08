@@ -4,6 +4,7 @@ html {
     background: #00C9FF;  
     background: -webkit-linear-gradient(217deg, #92FE9D, #00C9FF);
     background: linear-gradient(217deg, #92FE9D, #00C9FF);
+    height: 100%;
 }
 
 h1 {
@@ -113,7 +114,7 @@ section.info {
     -moz-transition: color 0.2s ease-out;
     -o-transition: color 0.2s ease-out;
     -ms-transition: color 0.2s ease-out;
-    transition: color 0.2s ease-out;
+    transition: color 0.s ease-out;
 }
 
 .info .social a:hover {
