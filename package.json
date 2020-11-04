@@ -1,0 +1,34 @@
+{
+  "name": "alan-vcard",
+  "version": "1.0.0",
+  "description": "My vCard",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macmowl/alan-vcard.git"
+  },
+  "keywords": [
+    "vcard",
+    "alan",
+    "massaro",
+    "web",
+    "development",
+    "css",
+    "html",
+    "hire",
+    "me"
+  ],
+  "author": "Alan Massaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macmowl/alan-vcard/issues"
+  },
+  "homepage": "https://github.com/macmowl/alan-vcard#readme"
+}
