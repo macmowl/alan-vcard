@@ -92,12 +92,12 @@ main {
     @media screen and (min-width: 576px) {
       .header__info {
         padding-top: 300px; } }
-    .header__info__info-social {
+    .header__info-social {
       display: flex;
       justify-content: space-around;
       width: 120px;
       margin: auto; }
-      .header__info__info-social a {
+      .header__info-social a {
         text-decoration: none;
         color: #333;
         display: block;
@@ -108,10 +108,10 @@ main {
         background: white;
         transition: background-color 0.5s ease-out;
         transition: color 0.2s ease-out; }
-        .header__info__info-social a i {
+        .header__info-social a i {
           font-size: 2.4rem;
           margin: 4px 0 0 2px; }
-      .header__info__info-social a:hover {
+      .header__info-social a:hover {
         background: #00C9FF;
         background: -webkit-linear-gradient(217deg, #92FE9D, #00C9FF);
         background: linear-gradient(217deg, #92FE9D, #00C9FF);
